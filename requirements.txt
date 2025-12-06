@@ -5,24 +5,14 @@ matplotlib
 numpy
 pandas
 scipy
+scikit-learn
 torch
 torchvision
 torchmetrics
-scikit-learn
-geemap
-h5py
-Pillow
-geopandas
-rasterio
-shapely
-matplotlib
-numpy
-pandas
-scipy
-torch
-torchvision
-torchmetrics
-scikit-learn
-geemap
-h5py
-Pillow
+tqdm
+seaborn
+geemap   # or leafmap
+pyproj
+pyarrow  # for parquet
+
+
