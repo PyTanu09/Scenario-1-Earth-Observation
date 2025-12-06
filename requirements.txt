@@ -14,5 +14,7 @@ seaborn
 geemap   # or leafmap
 pyproj
 pyarrow  # for parquet
+h5py
+Pillow
 
 
